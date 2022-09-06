@@ -2,7 +2,7 @@
 
 ### A news Website that fetches the latest news throught API <br>
 ### New News is fethced from the API and is displayed on the website
-### <b> Currently the site us running under some api proble.s - will be fixing it soon </b>
+### <b> Currently the site is running under some api proble.s - will be fixing it soon </b>
 <br>
 <br>
 <br>
